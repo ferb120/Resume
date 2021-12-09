@@ -1,0 +1,39 @@
+Fernando Mendoza
+linkedin.com/in/fernando-mendoza-8282a3119/
+ferna2291@gmail.com
+831.801.1305
+
+ 
+Professional Experience
+Software Engineer: Qualcomm - MCPM (Modem Clock Power Management) Team (9/2019-6/2021)
+Helped manage clock frequencies and voltage levels under modem domain 
+Developed a voting mechanism to satisfy calibration needs for a voltage resource 
+Supported issues regarding high power consumption by tracking down resources that were in the wrong operating level and contacted the proper personnel to debug the problem
+Enhanced pythons scripts to parse logs from multiple software layers and understand the state of the modem at a specific frame
+Created and modified unit tests to verify incoming features
+
+Software Engineer Intern: Qualcomm - MCPM (Modem Clock Power Management) Team (6/2018-9/2018)
+Created a web application that graphically presented a system to help visually debug issues
+Used a force directed placement algorithm to place the blocks of a system 
+Implemented an A* search algorithm to route buses from blocks to blocks
+Created VLSI global and detail routing methods to route buses in a visually pleasing way
+
+Projects
+CerebralEdge (Stock Market Trading Bot): (2020-now)
+Creating an object oriented application to allow stock market transactions using a brokerage API
+Abstracting the authentication layer to allow support for different brokerages in the future
+Designing a data library to help store and quickly access stock tickers and option chains for transactions
+
+MoodStream (Photo Sharing Application): (2021-now) 
+Learning AWS services to migrate back end from Google Firebase
+Managing developer from India who helps with back-end APIs
+Continuously developing features and supporting bugs
+
+MoodStream: (2017-2021)
+Taught myself Swift through courses on Udemy (online learning website) and Youtube to develop the application UI
+Learned and used Google Firebase as the application back-end 
+Used MVC (model, view, controller) design to develop and organize the application
+
+Education
+University of California, Santa Barbara   
+Bachelor of Science in Computer Engineering (Completion: 6/2019)
